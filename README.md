@@ -29,3 +29,4 @@ This project provides Inventory Management using Power BI, useful for Warehouse/
 
 # Conclusion:
 Using this Dashboard, Inventory Managers have effectively Control in which we are Storing & maintain the Service levels by ordering Right Re-order points.
+<img width="1552" height="907" alt="image" src="https://github.com/user-attachments/assets/4710d384-1158-4b9e-a71f-8b9cc181aafa" />
